@@ -1,0 +1,71 @@
+body {
+  font-size: 16px;
+  color: #000000;
+  background-color: #ffffff;
+  font-family: 'Helvetica';
+}
+
+/** HEADER **/
+#header-nav {
+  background-color: #f6b319;
+  color:#000000;
+  border-radius: 0;
+  border: 0;
+}
+
+.navbar-brand {
+  padding-top: 10px;
+}
+
+ul li {
+  color: #000000;
+  text-align: center;
+  font-size: 1.5em;
+
+}
+#llcfood{
+  color: #000000;
+  font-size: 1.5em;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  text-transform: uppercase;
+  padding-top:5px;
+  line-height: .75;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #61122f;
+}
+
+
+/**  END HEADER **/
+
+/** MAIN CONTENT **/
+
+h1 {
+  margin-top:85px;
+  margin-bottom:25px;
+  font-weight: bold;
+  font-size:2em;
+}
+#chicken-section {
+  height: 2000px;
+  margin-top:5px;
+  margin-bottom: 5px;
+}
+
+#chicken-title{
+  font-weight: bold;
+  font-size: 1.2em;
+  margin-top:5px;
+  margin-bottom: 5px;
+}
+
+#container-chicken {
+  background-color: #cccccc;
+}
+
+p {
+  padding-left: 20px;
+  padding-right: 20px;
+}
